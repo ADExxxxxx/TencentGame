@@ -7,8 +7,6 @@
 - 平台: andorid-arm64
 
 ### 资源下载:
-- [介绍视频和安装包](https://www.ccnulyp.top/usr/uploads/TencentGame.rar)
-
 - [百度网盘链接](https://pan.baidu.com/s/1xiqtSfAvsAGtfMdPGYMdNA?pwd=aq1z)
 提取码：aq1z 
 
