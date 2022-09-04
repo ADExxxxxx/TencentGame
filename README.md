@@ -1,11 +1,16 @@
 # Mission:35786
 ![image.png](./main.png)
 
-### 环境说明：
+### 环境说明:
 - UE 4.27
 - Windows 10
 - 平台: andorid-arm64
 
+### 资源下载:
+- [介绍视频和安装包](https://www.ccnulyp.top/usr/uploads/TencentGame.rar)
+
+- [百度网盘链接](https://pan.baidu.com/s/1xiqtSfAvsAGtfMdPGYMdNA?pwd=aq1z)
+提取码：aq1z 
 
 
 ### 备注
