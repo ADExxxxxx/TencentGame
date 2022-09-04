@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{411B96C8-46EC-2B7B-3A50-5ABE56571465}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TencentGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG",
+				"AIModule"
+			]
+		}
+	]
+}
